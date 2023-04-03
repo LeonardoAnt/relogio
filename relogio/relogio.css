@@ -1,0 +1,23 @@
+body{
+    font-size: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 300px;
+   
+}
+.relogio{
+    width: 600px;
+    height: 200px;
+    border: 20px black solid;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    color: white;
+    font-family:fantasy;
+    background-color: rgba(0, 0, 0, 0.466);
+    border-radius: 2rem;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.253);
+    
+}
